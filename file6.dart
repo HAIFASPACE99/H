@@ -1,5 +1,5 @@
 void main(){
 
-  print('hello tuqaiq    two');
+  print('hello tuqaiq  two');
     
 }

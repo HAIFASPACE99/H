@@ -13,7 +13,7 @@ public class stars {
             
             
             
-            System.out.println("print stars with one loop : ");
+            System.out.println("print stars with one loop   : ");
             
             
             
